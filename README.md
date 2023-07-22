@@ -1,5 +1,5 @@
 # FS22_Maps_Maker
-I want to create a map generator utility for making maps for Farm Sim 22.
+I want to create a map generator utility for making maps for Farm Sim 22. 
 
 Notes:
 1. I am no expert at anything maybe but being a total organizational nightmare.  As such, I created this Git to help get organized and to, eventually be able to streamline the process of creating maps for Farm Sim 22.
